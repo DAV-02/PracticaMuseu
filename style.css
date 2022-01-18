@@ -1,0 +1,31 @@
+header{
+    background-color:khaki;
+    text-align: center;
+    }
+
+nav{
+    background-color: lawngreen;
+    color: black;
+    text-align: center;
+}
+
+section{
+    background-color: orange;
+    text-align: left;
+}
+
+div.enlaces{
+    display: inline-block;    
+}
+
+div.f1 {
+    background-color: orange;
+}
+div.f2 {
+    background-color: blue;
+    text-align: center;
+}
+span.f3 {
+    background-color: yellow;
+    color: purple;
+}
